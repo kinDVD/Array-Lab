@@ -1,0 +1,14 @@
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\bin\Debug\net8.0\ArrayLab.exe
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\bin\Debug\net8.0\ArrayLab.deps.json
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\bin\Debug\net8.0\ArrayLab.runtimeconfig.json
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\bin\Debug\net8.0\ArrayLab.dll
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\bin\Debug\net8.0\ArrayLab.pdb
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ArrayLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ArrayLab.AssemblyInfoInputs.cache
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ArrayLab.AssemblyInfo.cs
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ArrayLab.csproj.CoreCompileInputs.cache
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ArrayLab.dll
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\refint\ArrayLab.dll
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ArrayLab.pdb
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ArrayLab.genruntimeconfig.cache
+C:\Users\Test User\source\repos\ArrayLab\ArrayLab\obj\Debug\net8.0\ref\ArrayLab.dll
